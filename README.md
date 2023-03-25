@@ -11,13 +11,3 @@
 - 💬 Ask me about **react, vue, JS, Python and Web stuff**
 
 - 📫 How to reach me **rajshekar.work@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajshekardev&show_icons=true&repo=github-readme-stats&theme=transparent" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshekardev&" alt="rajshekardev" /></p>
