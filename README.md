@@ -16,6 +16,8 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshekardev&show_icons=true&locale=en&layout=compact" alt="rajshekardev" /></p>
+<p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshekardev&show_icons=true&theme=transparent)
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshekardev&" alt="rajshekardev" /></p>
