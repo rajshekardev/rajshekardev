@@ -17,7 +17,7 @@
 </p>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajshekardev&show_icons=true&theme=transparent" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajshekardev&show_icons=true&repo=github-readme-stats&theme=transparent" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshekardev&" alt="rajshekardev" /></p>
